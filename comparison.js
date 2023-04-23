@@ -1,10 +1,12 @@
+var number = (100 < 500);
+console.log(number);
+
+var height = (500>=500)
+console.log(height);
 
 
 
-
-
-
-
+// such as && || > < > 
 
 
 
