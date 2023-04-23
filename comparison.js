@@ -6,14 +6,13 @@ console.log(height);
 
 
 
+
+
+
+
+
+
 // such as && || > < > 
-
-
-
-
-
-
-
 
 
 
